@@ -1,11 +1,15 @@
 ---
-title: News
+title: "News"
 permalink: /news/
 ---
 # News
 
-<div class="notice">Recent lab news is awaiting review. No new announcements have been inferred from older website content.</div>
+## From the university news archive
 
-[Browse the existing news archive](https://corelab.engin.umich.edu/news/)
+These are dated summaries of announcements on the existing website. They retain their historical context rather than being presented as new updates.
 
-Each new item should include an event date, a short description, a source link, and the person who verified it. Historical items should retain their original dates.
+<div class="news-list">
+{% for item in site.data.news %}<article><time>{{ item.date }}</time><p>{{ item.summary }}</p></article>{% endfor %}
+</div>
+
+Source and older announcements: [CORE news archive](https://corelab.engin.umich.edu/news/).

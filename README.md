@@ -17,7 +17,7 @@ For the linked local preview, use `../scripts/preview.sh` from the workspace. Fo
 
 ## Structure
 
-Pages are Markdown; the homepage is HTML/Liquid. Shared project summaries live in `_data/projects.yml`, the layout in `_layouts/default.html`, and styles in `assets/style.css`. Check `CONTENT_REVIEW.md` before replacing university content.
+Pages are Markdown, including all four research areas, faculty biography, and prospective-student guidance; the homepage is HTML/Liquid. Research navigation and dated news are editable in `_data/research.yml` and `_data/news.yml`. Shared project summaries live in `_data/projects.yml`, the layout in `_layouts/default.html`, and styles in `assets/style.css`. Check `CONTENT_REVIEW.md` before replacing university content.
 
 ## Future GitHub Pages
 

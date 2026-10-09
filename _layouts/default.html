@@ -12,10 +12,10 @@
 <div class="institution">UNIVERSITY OF MICHIGAN <span>MECHANICAL ENGINEERING</span></div>
 <header><a class="brand" href="{{ '/' | relative_url }}">CORE<span>LAB</span></a>
 <nav aria-label="Main navigation">
-{% assign items = 'Research:/research/,People:/people/,Publications:/publications/,News:/news/,Contact:/contact/' | split: ',' %}
+{% assign items = 'About:/about/,Research:/research/,People:/people/,Publications:/publications/,News:/news/,Contact:/contact/' | split: ',' %}
 {% for item in items %}{% assign pair = item | split: ':' %}<a href="{{ pair[1] | relative_url }}" {% if page.url == pair[1] %}aria-current="page"{% endif %}>{{ pair[0] }}</a>{% endfor %}
 <a class="nav-docs" href="{{ site.docs_url | relative_url }}">Lab manual ↗</a>
 </nav></header>
 <main id="main" {% unless page.home %}class="content-page"{% endunless %}>{{ content }}</main>
-<footer><div><a class="brand" href="{{ '/' | relative_url }}">CORE<span>LAB</span></a><p>Control and Optimization for Renewables<br>and Energy Efficiency</p></div><div><p>University of Michigan<br>Ann Arbor, Michigan</p><a href="{{ site.docs_url | relative_url }}">Documentation</a> · <a href="https://corelab.engin.umich.edu/">Current university website</a></div><p class="draft">Local website draft · content review in progress</p></footer>
+<footer><div><a class="brand" href="{{ '/' | relative_url }}">CORE<span>LAB</span></a><p>Control and Optimization for Renewables<br>and Energy Efficiency</p></div><div><p>University of Michigan<br>Ann Arbor, Michigan</p><a href="{{ site.docs_url | relative_url }}">Documentation</a> · <a href="https://corelab.engin.umich.edu/">Current university website</a></div><p class="draft">Local website draft · <a href="{{ '/prospective-students/' | relative_url }}">Prospective students</a> · <a href="{{ '/patents/' | relative_url }}">Patents</a> · <a href="{{ '/invited-talks/' | relative_url }}">Invited talks</a></p></footer>
 </body></html>

@@ -1,31 +1,17 @@
 ---
-title: Research
+title: "Research"
 permalink: /research/
 ---
 # Research
 
-CORE Lab explores optimization and control for renewable energy, energy efficiency, and autonomous systems. This draft focuses on the three platforms being documented first; it is not a complete inventory of the lab's research.
+CORE uses control and optimization to improve renewable energy harvesting and energy efficiency. The research areas below follow the existing university website.
 
-## SeaTrac SP-48 Autonomous Surface Vessel
+<div class="research-grid">
+{% for area in site.data.research %}<article class="project"><span class="number">{{ area.label }}</span><h2>{{ area.title }}</h2><p>{{ area.summary }}</p><a href="{{ area.path | relative_url }}">Explore this research area →</a></article>{% endfor %}
+</div>
 
-The existing CORE website describes solar-powered ocean observation and energy-aware control using the SeaTrac SP-48. The new manual will preserve platform configurations, software environments, and experiment records.
+## Platform documentation
 
-[Open SeaTrac documentation]({{ site.docs_url | append: 'seatrac-sp48/' | relative_url }}) · [Existing research description](https://corelab.engin.umich.edu/research/renewably-powered-robotic-systems/)
+The [lab manual]({{ site.docs_url | relative_url }}) collects build and experiment records for [SeaTrac SP-48]({{ site.docs_url | append: 'seatrac-sp48/' | relative_url }}), the [Energy-Harvesting Kite]({{ site.docs_url | append: 'energy-harvesting-kite/' | relative_url }}), and [Saildrone]({{ site.docs_url | append: 'saildrone/' | relative_url }}).
 
-## Energy-Harvesting Kite
-
-CORE's published research includes the design and control of tethered energy-harvesting kites. Documentation will distinguish individual builds and test configurations rather than assume that procedures apply across every kite.
-
-[Open kite documentation]({{ site.docs_url | append: 'energy-harvesting-kite/' | relative_url }}) · [Existing marine energy research](https://corelab.engin.umich.edu/research/marine-hydrokinetic-energy-systems/)
-
-## Saildrone
-
-The existing website discusses sailing-drone modeling and trajectory optimization. The manual provides a place to identify the exact CORE platform and document its hardware and software; its model and current configuration still need confirmation.
-
-[Open Saildrone documentation]({{ site.docs_url | append: 'saildrone/' | relative_url }})
-
-## Broader research
-
-The existing CORE website also describes airborne wind energy and connected and autonomous vehicles. These areas can be added after their current scope and project leads are reviewed.
-
-[Visit the existing research pages](https://corelab.engin.umich.edu/research/)
+Source: [Original research overview](https://corelab.engin.umich.edu/research/).
