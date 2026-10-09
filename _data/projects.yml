@@ -1,0 +1,12 @@
+- title: SeaTrac SP-48
+  slug: seatrac-sp48
+  category: Autonomous surface vessel
+  summary: Documentation for the SeaTrac SP-48 platform, its hardware configurations, software setup, and experiment workflow.
+- title: Energy-Harvesting Kite
+  slug: energy-harvesting-kite
+  category: Tethered energy systems
+  summary: A shared record of kite builds, instrumentation, control software, and experimental configurations.
+- title: Saildrone
+  slug: saildrone
+  category: Sailing autonomy
+  summary: A home for platform identification, sailing-system setup, mission software, and experiment records.

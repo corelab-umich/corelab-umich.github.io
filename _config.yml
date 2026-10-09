@@ -1,0 +1,13 @@
+title: CORE Lab
+description: Control and Optimization for Renewables and Energy Efficiency at the University of Michigan.
+url: https://corelab-umich.github.io
+baseurl: ""
+docs_url: /lab-manual/
+markdown: kramdown
+permalink: pretty
+exclude: [README.md, CONTENT_REVIEW.md, CONTRIBUTING.md, Gemfile, Gemfile.lock, vendor, scripts]
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
