@@ -4,6 +4,12 @@ permalink: /publications/
 source_url: https://corelab.engin.umich.edu/products-of-research/publications/
 ---
 <h1>Publications</h1>
+{% if site.data.publications.size > 0 %}
+<section aria-labelledby="recent-publications" class="publication-additions">
+  <h2 id="recent-publications">Recent Publications</h2>
+  {% for publication in site.data.publications %}{% include publication.html publication=publication %}{% endfor %}
+</section>
+{% endif %}
 <div class="source-content">
 
 		<!---ACF CTA fields here -->

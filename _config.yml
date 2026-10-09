@@ -5,7 +5,7 @@ baseurl: ""
 docs_url: /lab-manual/
 markdown: kramdown
 permalink: pretty
-exclude: [README.md, CONTENT_REVIEW.md, CONTRIBUTING.md, Gemfile, Gemfile.lock, vendor, scripts]
+exclude: [README.md, PUBLICATIONS.md, tests, CONTENT_REVIEW.md, CONTRIBUTING.md, Gemfile, Gemfile.lock, vendor, scripts]
 defaults:
   - scope:
       path: ""

@@ -1,0 +1,334 @@
+[
+  {
+    "name": "Christopher Vermillion",
+    "role": "faculty",
+    "enabled": true,
+    "orcid": "0000-0001-9481-6956",
+    "openalex_id": "A5020481434",
+    "verification": "ORCID record and matched affiliation/publication",
+    "verified_on": "2026-10-09",
+    "from_date": null,
+    "to_date": null,
+    "evidence": [
+      "https://orcid.org/0000-0001-9481-6956",
+      "https://api.openalex.org/works/W162099053",
+      "https://doi.org/10.1109/cca.2006.286181"
+    ]
+  },
+  {
+    "name": "Minhazul Alam",
+    "role": "student",
+    "enabled": true,
+    "orcid": "0009-0007-4335-8634",
+    "openalex_id": "A5101776719",
+    "verification": "ORCID record and matched affiliation/publication",
+    "verified_on": "2026-10-09",
+    "from_date": null,
+    "to_date": null,
+    "evidence": [
+      "https://orcid.org/0009-0007-4335-8634",
+      "https://api.openalex.org/authors/A5101776719",
+      "https://corelab.engin.umich.edu/students/"
+    ]
+  },
+  {
+    "name": "Aleksandra Dudek",
+    "role": "student",
+    "enabled": true,
+    "orcid": null,
+    "openalex_id": "A5119375038",
+    "verification": "OpenAlex coauthorship and Michigan affiliation; no ORCID verified",
+    "verified_on": "2026-10-09",
+    "from_date": null,
+    "to_date": null,
+    "evidence": [
+      "https://doi.org/10.31390/lsucontrol.26.28"
+    ]
+  },
+  {
+    "name": "Kavin Govindarajan",
+    "role": "student",
+    "enabled": true,
+    "orcid": "0009-0000-1827-1480",
+    "openalex_id": "A5064215357",
+    "verification": "ORCID record and matched affiliation/publication",
+    "verified_on": "2026-10-09",
+    "from_date": null,
+    "to_date": null,
+    "evidence": [
+      "https://orcid.org/0009-0000-1827-1480",
+      "https://doi.org/10.23919/acc53348.2022.9867746"
+    ]
+  },
+  {
+    "name": "Limeng Liu",
+    "role": "student",
+    "enabled": true,
+    "orcid": "0000-0001-9781-5465",
+    "openalex_id": "A5002758839",
+    "verification": "ORCID record and matched affiliation/publication",
+    "verified_on": "2026-10-09",
+    "from_date": null,
+    "to_date": null,
+    "evidence": [
+      "https://orcid.org/0000-0001-9781-5465",
+      "https://doi.org/10.1109/ccta53793.2025.11151344"
+    ]
+  },
+  {
+    "name": "Mary Maceda",
+    "role": "student",
+    "enabled": true,
+    "orcid": "0009-0003-3115-6702",
+    "openalex_id": "A5114786136",
+    "verification": "ORCID record and matched affiliation/publication",
+    "verified_on": "2026-10-09",
+    "from_date": null,
+    "to_date": null,
+    "evidence": [
+      "https://orcid.org/0009-0003-3115-6702",
+      "https://doi.org/10.1109/oceans55160.2024.10754054"
+    ]
+  },
+  {
+    "name": "Zihan Yu",
+    "role": "student",
+    "enabled": true,
+    "orcid": "0000-0003-2670-4252",
+    "openalex_id": "A5136693161",
+    "verification": "ORCID record and matched affiliation/publication",
+    "verified_on": "2026-10-09",
+    "from_date": null,
+    "to_date": null,
+    "evidence": [
+      "https://orcid.org/0000-0003-2670-4252",
+      "https://api.crossref.org/works/10.1016/j.eswa.2026.132905",
+      "https://api.openalex.org/authors/A5136693161"
+    ]
+  },
+  {
+    "name": "Ashley Ortenburg",
+    "role": "student",
+    "enabled": true,
+    "orcid": null,
+    "openalex_id": "A5122226372",
+    "verification": "OpenAlex coauthorship and Michigan affiliation; no ORCID verified",
+    "verified_on": "2026-10-09",
+    "from_date": null,
+    "to_date": null,
+    "evidence": [
+      "https://doi.org/10.1115/1.4070774"
+    ]
+  },
+  {
+    "name": "Diego Ramirez-Gomez",
+    "role": "student",
+    "enabled": true,
+    "orcid": null,
+    "openalex_id": "A5122073437",
+    "verification": "OpenAlex coauthorship and Michigan affiliation; no ORCID verified",
+    "verified_on": "2026-10-09",
+    "from_date": null,
+    "to_date": null,
+    "evidence": [
+      "https://doi.org/10.1115/1.4070774"
+    ]
+  },
+  {
+    "name": "Jacob Fine",
+    "role": "alumnus",
+    "enabled": false,
+    "orcid": "0000-0003-1158-1632",
+    "openalex_id": "A5023232567",
+    "verification": "ORCID record and matched affiliation/publication",
+    "verified_on": "2026-10-09",
+    "from_date": null,
+    "to_date": null,
+    "evidence": [
+      "https://orcid.org/0000-0003-1158-1632",
+      "https://doi.org/10.1109/ccta49430.2022.9966031",
+      "https://doi.org/10.1115/1.4064379"
+    ]
+  },
+  {
+    "name": "James Reed",
+    "role": "alumnus",
+    "enabled": false,
+    "orcid": "0000-0001-7591-0584",
+    "openalex_id": "A5025694102",
+    "verification": "ORCID record and matched affiliation/publication",
+    "verified_on": "2026-10-09",
+    "from_date": null,
+    "to_date": null,
+    "evidence": [
+      "https://orcid.org/0000-0001-7591-0584",
+      "https://doi.org/10.1016/j.ifacol.2020.12.1883"
+    ]
+  },
+  {
+    "name": "Andrew Abney",
+    "role": "alumnus",
+    "enabled": false,
+    "orcid": "0009-0004-3651-7594",
+    "openalex_id": "A5031069113",
+    "verification": "ORCID record and matched affiliation/publication",
+    "verified_on": "2026-10-09",
+    "from_date": null,
+    "to_date": null,
+    "evidence": [
+      "https://orcid.org/0009-0004-3651-7594",
+      "https://doi.org/10.1016/j.ifacol.2022.11.176"
+    ]
+  },
+  {
+    "name": "Kartik Naik",
+    "role": "alumnus",
+    "enabled": false,
+    "orcid": "0000-0002-9656-7487",
+    "openalex_id": "A5040163029",
+    "verification": "ORCID record and matched affiliation/publication",
+    "verified_on": "2026-10-09",
+    "from_date": null,
+    "to_date": null,
+    "evidence": [
+      "https://orcid.org/0000-0002-9656-7487",
+      "https://doi.org/10.1115/1.4047825",
+      "https://doi.org/10.1109/tcst.2023.3237614"
+    ]
+  },
+  {
+    "name": "John Borek",
+    "role": "alumnus",
+    "enabled": false,
+    "orcid": "0000-0002-5392-0906",
+    "openalex_id": "A5036057399",
+    "verification": "ORCID record and matched affiliation/publication",
+    "verified_on": "2026-10-09",
+    "from_date": null,
+    "to_date": null,
+    "evidence": [
+      "https://orcid.org/0000-0002-5392-0906",
+      "https://doi.org/10.23919/acc.2018.8431050"
+    ]
+  },
+  {
+    "name": "Ayaz Siddiqui",
+    "role": "alumnus",
+    "enabled": false,
+    "orcid": "0000-0002-4264-7713",
+    "openalex_id": "A5085572519",
+    "verification": "ORCID record and matched affiliation/publication",
+    "verified_on": "2026-10-09",
+    "from_date": null,
+    "to_date": null,
+    "evidence": [
+      "https://orcid.org/0000-0002-4264-7713",
+      "https://doi.org/10.1115/dscc2019-9168"
+    ]
+  },
+  {
+    "name": "Mitchell Cobb",
+    "role": "alumnus",
+    "enabled": false,
+    "orcid": "0000-0003-0487-0516",
+    "openalex_id": "A5061791423",
+    "verification": "ORCID record and matched affiliation/publication",
+    "verified_on": "2026-10-09",
+    "from_date": null,
+    "to_date": null,
+    "evidence": [
+      "https://orcid.org/0000-0003-0487-0516",
+      "https://doi.org/10.1115/dscc2016-9737"
+    ]
+  },
+  {
+    "name": "Christian Earnhardt",
+    "role": "alumnus",
+    "enabled": false,
+    "orcid": "0000-0002-7603-7702",
+    "openalex_id": "A5066064997",
+    "verification": "ORCID record and matched affiliation/publication",
+    "verified_on": "2026-10-09",
+    "from_date": null,
+    "to_date": null,
+    "evidence": [
+      "https://orcid.org/0000-0002-7603-7702",
+      "https://doi.org/10.23919/acc.2018.8431050"
+    ]
+  },
+  {
+    "name": "Ben Groelke",
+    "role": "alumnus",
+    "enabled": false,
+    "orcid": "0000-0002-9056-5771",
+    "openalex_id": "A5023600888",
+    "verification": "ORCID record and matched affiliation/publication",
+    "verified_on": "2026-10-09",
+    "from_date": null,
+    "to_date": null,
+    "evidence": [
+      "https://orcid.org/0000-0002-9056-5771",
+      "https://doi.org/10.23919/acc.2018.8431050"
+    ]
+  },
+  {
+    "name": "Joe Deese",
+    "role": "alumnus",
+    "enabled": false,
+    "orcid": "0000-0003-2066-0797",
+    "openalex_id": "A5061695958",
+    "verification": "ORCID record and matched affiliation/publication",
+    "verified_on": "2026-10-09",
+    "from_date": null,
+    "to_date": null,
+    "evidence": [
+      "https://orcid.org/0000-0003-2066-0797",
+      "https://doi.org/10.2514/1.j054407"
+    ]
+  },
+  {
+    "name": "Alireza Bafandeh",
+    "role": "alumnus",
+    "enabled": false,
+    "orcid": "0000-0001-5361-1735",
+    "openalex_id": "A5060917734",
+    "verification": "ORCID record and matched affiliation/publication",
+    "verified_on": "2026-10-09",
+    "from_date": null,
+    "to_date": null,
+    "evidence": [
+      "https://orcid.org/0000-0001-5361-1735",
+      "https://doi.org/10.1109/acc.2016.7526144"
+    ]
+  },
+  {
+    "name": "Ali Baheri",
+    "role": "alumnus",
+    "enabled": false,
+    "orcid": "0000-0002-5613-0192",
+    "openalex_id": "A5086511671",
+    "verification": "ORCID record and matched affiliation/publication",
+    "verified_on": "2026-10-09",
+    "from_date": null,
+    "to_date": null,
+    "evidence": [
+      "https://orcid.org/0000-0002-5613-0192",
+      "https://doi.org/10.23919/acc.2017.7963143"
+    ]
+  },
+  {
+    "name": "Nihar Deodhar",
+    "role": "alumnus",
+    "enabled": false,
+    "orcid": "0000-0003-4243-2461",
+    "openalex_id": "A5075356273",
+    "verification": "ORCID record and matched affiliation/publication",
+    "verified_on": "2026-10-09",
+    "from_date": null,
+    "to_date": null,
+    "evidence": [
+      "https://orcid.org/0000-0003-4243-2461",
+      "https://doi.org/10.2514/6.2015-3350"
+    ]
+  }
+]

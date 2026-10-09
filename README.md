@@ -23,6 +23,10 @@ The source-page and media mappings are recorded in `_data/content_sources.json`.
 
 ## GitHub Pages
 
-Intended repository: `corelab-umich/corelab-umich.github.io`. The workflow builds pull requests without deployment, and publishes main-branch pushes once GitHub Pages is enabled with GitHub Actions. Review content and remove the local-draft footer when the website is approved.
+Intended repository: `corelab-umich/corelab-umich.github.io`. The workflow builds pull requests without deployment, and publishes main-branch pushes once GitHub Pages is enabled with GitHub Actions.
 
 The generated `_site/` directory is ignored. Commit source files and `Gemfile.lock`. Select a code license and a reuse policy for lab-authored material before public release.
+
+## Publications
+
+Monthly discovery proposes additions for review. See `PUBLICATIONS.md` for author verification, scope, configuration, and activation.

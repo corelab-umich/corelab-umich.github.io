@@ -1,0 +1,116 @@
+[
+  {
+    "id": "https://openalex.org/W7161992070",
+    "doi": "10.1016/j.eswa.2026.132905",
+    "title": "Multi-agent reinforcement learning for energy-efficient heterogeneous platooning",
+    "authors": [
+      "Zihan Yu",
+      "Christopher Vermillion"
+    ],
+    "year": 2026,
+    "date": "2026-05-21",
+    "type": "article",
+    "venue": "Expert Systems with Applications",
+    "volume": "329",
+    "issue": null,
+    "pages": "132905",
+    "url": "https://doi.org/10.1016/j.eswa.2026.132905"
+  },
+  {
+    "id": "https://openalex.org/W7118812066",
+    "doi": "10.1115/1.4070774",
+    "title": "Modeling, Control, and Closed-Loop Mobility Characterization of a Spherical Sailing Omnidirectional Rover (SSailOR)",
+    "authors": [
+      "Harrison Kosak",
+      "Jacob B. Fine",
+      "Aditya Varanwal",
+      "Ashley Ortenburg",
+      "Diego Ramirez-Gomez",
+      "Parin Shah",
+      "George Carrion",
+      "Andre P. Mazzoleni",
+      "Christopher Vermillion"
+    ],
+    "year": 2026,
+    "date": "2026-01-06",
+    "type": "article",
+    "venue": "Journal of Dynamic Systems Measurement and Control",
+    "volume": "148",
+    "issue": "4",
+    "pages": "",
+    "url": "https://doi.org/10.1115/1.4070774"
+  },
+  {
+    "id": "https://openalex.org/W4417266159",
+    "doi": "10.1016/j.energy.2025.139660",
+    "title": "Fused portfolio optimization for harnessing marine renewable energy resources",
+    "authors": [
+      "Mary Maceda",
+      "Rob Miller",
+      "Victor Faria",
+      "Matthew J. Bryant",
+      "Chris Vermillion",
+      "Anderson Rodrigo de Queiroz"
+    ],
+    "year": 2025,
+    "date": "2025-12-12",
+    "type": "article",
+    "venue": "Energy",
+    "volume": "342",
+    "issue": null,
+    "pages": "139660",
+    "url": "https://doi.org/10.1016/j.energy.2025.139660"
+  },
+  {
+    "id": "https://openalex.org/W4416210889",
+    "doi": "10.1115/1.4070410",
+    "title": "Designing Renewables for an Uncertain World: Adaptive Co-Design Formulation and Marine Energy Case Study",
+    "authors": [
+      "Jacob B. Fine",
+      "Christopher Vermillion"
+    ],
+    "year": 2025,
+    "date": "2025-11-14",
+    "type": "article",
+    "venue": "Journal of Dynamic Systems Measurement and Control",
+    "volume": "148",
+    "issue": "3",
+    "pages": "",
+    "url": "https://doi.org/10.1115/1.4070410"
+  },
+  {
+    "id": "https://openalex.org/W4416225998",
+    "doi": "10.1115/1.4070411",
+    "title": "Co-Design for Real-Time Adaptability: Methodology, Implementation, and Real-Time Performance on a Morphing Wind Turbine",
+    "authors": [
+      "Jacob B. Fine",
+      "Ian Holbrook",
+      "Christopher Vermillion"
+    ],
+    "year": 2025,
+    "date": "2025-11-14",
+    "type": "article",
+    "venue": "Journal of Dynamic Systems Measurement and Control",
+    "volume": "148",
+    "issue": "2",
+    "pages": "",
+    "url": "https://doi.org/10.1115/1.4070411"
+  },
+  {
+    "id": "https://openalex.org/W4410491881",
+    "doi": "10.1109/tcst.2025.3566255",
+    "title": "Switching Economic Iterative Learning for Combined Path and Power Take-Off Control of a Drag-Powered Underwater Kite",
+    "authors": [
+      "Andrew Abney",
+      "Christopher Vermillion"
+    ],
+    "year": 2025,
+    "date": "2025-05-19",
+    "type": "article",
+    "venue": "IEEE Transactions on Control Systems Technology",
+    "volume": "33",
+    "issue": "5",
+    "pages": "1960–1966",
+    "url": "https://doi.org/10.1109/tcst.2025.3566255"
+  }
+]

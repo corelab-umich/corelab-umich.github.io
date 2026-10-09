@@ -1,0 +1,15 @@
+{
+  "from_date": "2025-01-01",
+  "required_coauthor_orcid": "0000-0001-9481-6956",
+  "types": [
+    "article",
+    "proceedings-article",
+    "book-chapter",
+    "preprint"
+  ],
+  "exclude": {
+    "dois": [],
+    "openalex_ids": [],
+    "titles": []
+  }
+}

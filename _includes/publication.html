@@ -1,0 +1,5 @@
+<article class="publication-entry">
+  <h3><a href="{{ include.publication.url | escape }}">{{ include.publication.title | escape }}</a></h3>
+  <p>{{ include.publication.authors | join: ', ' | escape }}.</p>
+  <p class="publication-details">{% if include.publication.venue != '' %}<em>{{ include.publication.venue | escape }}</em> · {% endif %}{{ include.publication.year }}{% if include.publication.volume %} · Vol. {{ include.publication.volume | escape }}{% endif %}{% if include.publication.issue %}, Issue {{ include.publication.issue | escape }}{% endif %}{% if include.publication.pages != '' %} · pp. {{ include.publication.pages | escape }}{% endif %}{% if include.publication.type == 'preprint' %} · Preprint{% endif %}</p>
+</article>

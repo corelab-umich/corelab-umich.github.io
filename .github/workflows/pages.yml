@@ -18,6 +18,8 @@ jobs:
         with:
           ruby-version: '3.3'
           bundler-cache: true
+      - name: Test publication discovery
+        run: python3 -m unittest discover -s tests -v
       - name: Build site
         run: bundle exec jekyll build --trace
       - name: Check local links

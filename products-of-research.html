@@ -21,3 +21,11 @@ source_url: https://corelab.engin.umich.edu/products-of-research/
   <a href="{{ '/patents/' | relative_url }}">Patents <span aria-hidden="true">→</span></a>
   <a href="{{ '/invited-talks/' | relative_url }}">Invited Talks <span aria-hidden="true">→</span></a>
 </nav>
+
+{% if site.data.publications.size > 0 %}
+<section aria-labelledby="latest-publications">
+  <h2 id="latest-publications">Latest Publications</h2>
+  {% for publication in site.data.publications limit:3 %}{% include publication.html publication=publication %}{% endfor %}
+  <p><a href="{{ '/publications/' | relative_url }}">View all publications</a></p>
+</section>
+{% endif %}
