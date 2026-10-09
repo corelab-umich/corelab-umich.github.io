@@ -17,10 +17,12 @@ When both repositories are available in the shared workspace, run `docker compos
 
 ## Structure
 
-Pages are Markdown, including all four research areas, faculty biography, and prospective-student guidance; the homepage is HTML/Liquid. Research navigation and dated news are editable in `_data/research.yml` and `_data/news.yml`. Shared project summaries live in `_data/projects.yml`, the layout in `_layouts/default.html`, and styles in `assets/style.css`. Check `CONTENT_REVIEW.md` when updating university-sourced content.
+Pages are HTML/Liquid, preserving the complete article content from 14 pages of the CORE Lab university website. Research figures, portraits, and videos are stored locally under `assets/images/` and `assets/videos/`. Navigation and the shared page wrapper are in `_layouts/default.html`; responsive styles are in `assets/style.css`.
+
+The source-page and media mappings are recorded in `_data/content_sources.json`. Original wording and dates are preserved, including information that may be outdated. Check `CONTENT_REVIEW.md` before editing university-sourced content. The lab has authorized reuse of the existing website text and images.
 
 ## GitHub Pages
 
 Intended repository: `corelab-umich/corelab-umich.github.io`. The workflow builds pull requests without deployment, and publishes main-branch pushes once GitHub Pages is enabled with GitHub Actions. Review content and remove the local-draft footer when the website is approved.
 
-The generated `_site/` directory is ignored. Commit source files and `Gemfile.lock`. Code/theme licensing and permission to republish lab content should be selected by the lab before public release; no license for CORE material has been assumed.
+The generated `_site/` directory is ignored. Commit source files and `Gemfile.lock`. Select a code license and a reuse policy for lab-authored material before public release.

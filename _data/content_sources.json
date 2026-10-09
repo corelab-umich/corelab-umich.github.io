@@ -1,0 +1,203 @@
+{
+  "captured": "2026-10-09",
+  "pages": [
+    {
+      "source": "https://corelab.engin.umich.edu/",
+      "permalink": "/",
+      "file": "index.html",
+      "text_sha256": "b5d800456f47e8a948024ad1a509221069f9efc352197606948b6b9214058501"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/about-dr-vermillion/",
+      "permalink": "/about-dr-vermillion/",
+      "file": "about-dr-vermillion.html",
+      "text_sha256": "d0f3581104b6073e63a891e24a611745e26a191cf8fe83eb3f6306c8a0ab2595"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/news/",
+      "permalink": "/news/",
+      "file": "news.html",
+      "text_sha256": "f5e9a2e111dbe85091f831a85b6e2b10d62edf93c7218e03eb20b8b57c2bb755"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/research/",
+      "permalink": "/research/",
+      "file": "research.html",
+      "text_sha256": "4ae76ade773e10b7acd02b94a853632fc2af4f86d8599f92bdac1ded07498c85"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/research/airborne-wind-energy-systems/",
+      "permalink": "/research/airborne-wind-energy-systems/",
+      "file": "research/airborne-wind-energy-systems.html",
+      "text_sha256": "5797e5f18dc62b866e1c1d57e6252e1b7497db7e63d896c8c1cb47e009203815"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/research/marine-hydrokinetic-energy-systems/",
+      "permalink": "/research/marine-hydrokinetic-energy-systems/",
+      "file": "research/marine-hydrokinetic-energy-systems.html",
+      "text_sha256": "7f61744a28c2cdd5c0cdcbfc922dacf83789854d3e8c39fd6e65133124858c4e"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/research/renewably-powered-robotic-systems/",
+      "permalink": "/research/renewably-powered-robotic-systems/",
+      "file": "research/renewably-powered-robotic-systems.html",
+      "text_sha256": "de9f37a9549a4ffba2a0bc58f341858f724f679d2c4367f75abfcb2433de8aa5"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/research/connected-and-autonomous-vehicles/",
+      "permalink": "/research/connected-and-autonomous-vehicles/",
+      "file": "research/connected-and-autonomous-vehicles.html",
+      "text_sha256": "da54fb96b508b56ce419c33f1b83105748c4c012587f57fe582b1c4532e594de"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/products-of-research/",
+      "permalink": "/products-of-research/",
+      "file": "products-of-research.html",
+      "text_sha256": "3f7f7387bc452cc9de0ce7766a1b9c630a18add8a6025bd32fbb6105d169d70f"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/products-of-research/publications/",
+      "permalink": "/publications/",
+      "file": "publications.html",
+      "text_sha256": "b446f8aa14b9dc68619a82af012e33dcb1106b8868652a8fd457a777c8da9732"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/products-of-research/patents/",
+      "permalink": "/patents/",
+      "file": "patents.html",
+      "text_sha256": "18b325df93329ee14df1cd1e1657c9e3a5a1ec2486e4300167bb9954934113b5"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/products-of-research/invited-talks/",
+      "permalink": "/invited-talks/",
+      "file": "invited-talks.html",
+      "text_sha256": "992ddbcfb3dcbc484fdfb7a62ea865487793a9a4ad4adb67bf107f917ba5f3e6"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/students/",
+      "permalink": "/people/",
+      "file": "people.html",
+      "text_sha256": "8353f434759ce2c57a28162de77a7ae623f74ae182044f8f554837f1da644103"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/prospective-students/",
+      "permalink": "/prospective-students/",
+      "file": "prospective-students.html",
+      "text_sha256": "6f2582620791f3338ccbd903ee4ed1861d6b3b6a1bfbc1be56ec648b448c377a"
+    }
+  ],
+  "media": [
+    {
+      "source": "https://corelab.engin.umich.edu/wp-content/uploads/sites/609/2024/12/lab_pic_2024.png",
+      "local": "/assets/images/f668265f-lab_pic_2024.png"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/wp-content/uploads/sites/609/2024/12/kite_montage.png",
+      "local": "/assets/images/e9b6f490-kite_montage.webp"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/wp-content/uploads/sites/609/2023/01/Vermillion_mod-1024x784-1-768x588-1-e1674755262426-500x412.png",
+      "local": "/assets/images/c42470bd-Vermillion_mod-1024x784-1-768x588-1-e1674755262426-500x412.png"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/wp-content/uploads/sites/609/2023/01/career_flowchart.png",
+      "local": "/assets/images/81e6532f-career_flowchart.webp"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/wp-content/uploads/sites/609/2023/01/bat_pic_21.png",
+      "local": "/assets/images/0d6477e6-bat_pic_21.webp"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/wp-content/uploads/sites/609/2023/01/kite_fig-500x419.png",
+      "local": "/assets/images/866458bc-kite_fig-500x419.png"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/wp-content/uploads/sites/609/2023/01/DS_conops-500x226.png",
+      "local": "/assets/images/148ec81c-DS_conops-500x226.png"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/wp-content/uploads/sites/609/2025/10/WEC_mobile.png",
+      "local": "/assets/images/0b6b3179-WEC_mobile.webp"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/wp-content/uploads/sites/609/2023/01/OCT_website-500x159.png",
+      "local": "/assets/images/5600541d-OCT_website-500x159.png"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/wp-content/uploads/sites/609/2023/01/AUV_website-500x455.png",
+      "local": "/assets/images/7be9b83d-AUV_website-500x455.png"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/wp-content/uploads/sites/609/2025/10/SSailOR-1024x356.png",
+      "local": "/assets/images/94a311cc-SSailOR-1024x356.png"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/wp-content/uploads/sites/609/2026/01/foiling_ASV-1024x325.png",
+      "local": "/assets/images/beaf5af0-foiling_ASV-1024x325.png"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/wp-content/uploads/sites/609/2025/10/cyber_physical_oceanography-1024x316.png",
+      "local": "/assets/images/e6478274-cyber_physical_oceanography-1024x316.png"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/wp-content/uploads/sites/609/2023/01/renewably_powered_robotics_examples-1536x367-1-1024x245.png",
+      "local": "/assets/images/1ebd2f33-renewably_powered_robotics_examples-1536x367-1-1024x245.png"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/wp-content/uploads/sites/609/2023/01/sailing_drone_study-1536x585-1-1024x390.png",
+      "local": "/assets/images/cc0450df-sailing_drone_study-1536x585-1-1024x390.png"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/wp-content/uploads/sites/609/2025/10/ARC_reconfigurability-1-1024x213.png",
+      "local": "/assets/images/c9b1d975-ARC_reconfigurability-1-1024x213.png"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/wp-content/uploads/sites/609/2023/01/ARPA-E_image.png",
+      "local": "/assets/images/d62dcc5f-ARPA-E_image.webp"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/wp-content/uploads/sites/609/2024/12/minhaz_headshot.png",
+      "local": "/assets/images/40ff2a55-minhaz_headshot.webp"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/wp-content/uploads/sites/609/2024/12/Aleksandra_headshot.png",
+      "local": "/assets/images/27d32226-Aleksandra_headshot.webp"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/wp-content/uploads/sites/609/2023/11/Govindarajan_headshot-1020x1024.jpg",
+      "local": "/assets/images/b9a768a1-Govindarajan_headshot-1020x1024.jpg"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/wp-content/uploads/sites/609/2023/11/Limeng-Liu-1-768x1024.jpg",
+      "local": "/assets/images/5d2c0cf9-Limeng-Liu-1-768x1024.jpg"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/wp-content/uploads/sites/609/2023/11/Maceda_headshot-rotated.jpeg",
+      "local": "/assets/images/41f84571-Maceda_headshot-rotated.jpeg"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/wp-content/uploads/sites/609/2024/12/headshot-1024x949.jpg",
+      "local": "/assets/images/7647f951-headshot-1024x949.jpg"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/wp-content/uploads/sites/609/2026/01/Senior-Photo-1-768x1024.jpg",
+      "local": "/assets/images/94c50e0e-Senior-Photo-1-768x1024.jpg"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/wp-content/uploads/sites/609/2026/01/headshot-Diego-1.jpg",
+      "local": "/assets/images/20cca390-headshot-Diego-1.jpg"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/wp-content/uploads/sites/609/2023/01/crosscurrent_with_me.mp4",
+      "local": "/assets/videos/f8045805-crosscurrent_with_me.mp4"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/wp-content/uploads/sites/609/2023/01/crosscurrent_withyaw_1.mp4",
+      "local": "/assets/videos/bd63e15d-crosscurrent_withyaw_1.mp4"
+    },
+    {
+      "source": "https://corelab.engin.umich.edu/wp-content/uploads/sites/609/2023/01/DuctSail_with_music.mp4",
+      "local": "/assets/videos/013a6b91-DuctSail_with_music.mp4"
+    }
+  ]
+}

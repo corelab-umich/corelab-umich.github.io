@@ -1,43 +1,9 @@
-# Content migration and review
+# Content review
 
-The local website now incorporates available information from CORE's existing university website, using attributed summaries rather than generic placeholder pages.
+The lab website mirrors the complete article content of 14 pages from https://corelab.engin.umich.edu/, captured on October 9, 2026, with authorization from the lab to reuse its text and images. Original wording, biographies, publication entries, dates, captions, and links are preserved. Content is arranged in the new website navigation; the original research output and students routes redirect to their new locations.
 
-## Included
+All 26 image occurrences and three research videos have local copies. Internal page links use the new routes. Responsive image variants are replaced with local image files. External research links remain as published on the university site.
 
-- Lab identity, methods, and all four research areas.
-- Research topics: wind-energy co-design and crosswind flight; underwater kites, Duct-Sail, WEC-Mobile, turbine arrays, and relocatable AUVs; SSailOR, foiling ASVs, clarity-driven oceanography, and persistent mission planning; adaptable vehicles, shared control, and fuel-economy optimization.
-- Chris Vermillion's biography and education.
-- All eight students and all alumni names recovered from the existing roster.
-- Thirteen dated news summaries from December 2022 through May 2025.
-- Ten recent publication topic summaries with original source IDs, year, lead author, and venue; full bibliography linked.
-- Five patent records, sixteen invited talks, and prospective-student guidance.
-- Faculty office/address/phone from the departmental directory, distinguishing them from college footer contacts.
+The original website may contain outdated information, contact links, and typographical errors. These are retained to mirror the source; future corrections should be reviewed by the lab. The lab manual contains new draft documentation for the three requested platforms and must be completed and reviewed before operational use.
 
-## Remaining work
-
-- Confirm changes to membership, affiliations, and project status since the source pages were updated.
-- Recover portraits, research photographs, diagrams, videos, and their original file locations. Automated source access was denied (403); media could not be retrieved reliably.
-- Import a complete verified bibliography with exact titles, complete author lists, DOI/public-manuscript links, and updated publication status from a lab-supplied export.
-- Add news after the latest recovered entries, and expand the older news/talk archive if desired.
-- Supply platform-specific build records and reviewed operating procedures to the manual.
-
-The indexed source obscures email addresses, so none were guessed. Links to official contact profiles are provided. The source has an apparent repeated degree label in Limeng Liu's biography, so that detail was not propagated. Research targets (including foiling speed and fuel-economy objectives) are not represented as achieved experimental results.
-
-## Sources consulted 2026-10-09
-
-- https://corelab.engin.umich.edu/
-- https://corelab.engin.umich.edu/research/
-- https://corelab.engin.umich.edu/research/airborne-wind-energy-systems/
-- https://corelab.engin.umich.edu/research/marine-hydrokinetic-energy-systems/
-- https://corelab.engin.umich.edu/research/renewably-powered-robotic-systems/
-- https://corelab.engin.umich.edu/research/connected-and-autonomous-vehicles/
-- https://corelab.engin.umich.edu/about-dr-vermillion/
-- https://corelab.engin.umich.edu/students/
-- https://corelab.engin.umich.edu/prospective-students/
-- https://corelab.engin.umich.edu/news/
-- https://corelab.engin.umich.edu/products-of-research/publications/
-- https://corelab.engin.umich.edu/products-of-research/patents/
-- https://corelab.engin.umich.edu/products-of-research/invited-talks/
-- https://me.engin.umich.edu/people/faculty/christopher-vermillion/
-
-Pages link their specific sources. Existing content is not independently verified as current. Nothing on the live university website was edited.
+Source URLs, page text hashes, and media mappings are recorded in `_data/content_sources.json`. The imported article text was checked against all 14 source pages after migration.

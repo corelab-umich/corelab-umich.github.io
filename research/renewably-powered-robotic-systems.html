@@ -1,0 +1,146 @@
+---
+title: "Renewably Powered Robotic Systems"
+permalink: /research/renewably-powered-robotic-systems/
+source_url: https://corelab.engin.umich.edu/research/renewably-powered-robotic-systems/
+---
+<h1>Renewably Powered Robotic Systems</h1>
+<div class="source-content">
+
+		<!---ACF CTA fields here -->
+
+
+<h5 class="wp-block-heading">The Wave Energy Converter – Mobile (WEC-Mobile):</h5>
+
+
+
+<p class="wp-block-paragraph">Supported by the U.S. Department of Energy and partnering with NC State, the University of Maryland, and Liquid Robotics, the CORE Lab is developing a mobile wave-powered desalination platform based on the Liquid Robotics Wave Glider. Pictured below and termed the WEC-Mobile, this device incorporates a piston-pump and reverse osmosis (RO) unit between the Liquid Robotics umbilical and float. Through the difference in wave amplitude between the underwater glider (where the wave amplitude is negligible) and the float at the surface (where the wave amplitude is large), significant hydrodynamic forces on the glider generate significant tension variation in the umbilical. This accomplishes two goals: (i) these tension forces propel the system forward while (ii) also driving the piston-pump and RO system. </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img decoding="async" width="651" height="373" src="{{ '/assets/images/0b6b3179-WEC_mobile.webp' | relative_url }}" alt="" class="wp-image-382"></figure>
+</div>
+
+
+<p class="has-text-align-center wp-block-paragraph">WEC-Mobile conceptual diagram.</p>
+
+
+
+<p class="wp-block-paragraph">The University of Michigan team is tacking two important control challenges with respect to the WEC-Mobile. The first challenge involves sizing the piston-pump components for optimal integration with the Wave Glider “balance of system,” in addition to developing real-time controllers for adjusting valve settings in real time to maximize the desalination rate as the sea states change. The second challenge is a real-time mission planning problem, where at every replanning time step, the WEC-Mobile uses the most recent spatiotemporally varying sea state forecast to optimize its path and speed profile to minimize the time required to fill the on-board freshwater tank.</p>
+
+
+
+<h5 class="wp-block-heading">The Spherical Sailing Omnidirectional Rover (SSailOR):</h5>
+
+
+
+<p class="wp-block-paragraph">Pictured below, the SSailOR is the first-in-world wind-powered spherical land rover capable of net upwind motion. This is important for persistent and autonomous monitoring of remote environments, where omnidirectional motion is needed and human intervention is not available. This capability is made possible as a result of several features, which parallel those of modern sailing yachts. First, a rubberized traction hoop all-but-eliminates sideslip forcing the SSailOR to travel in the direction it is pointing (which is accomplished via a keel or centerboard in a sailboat). Secondly, a ballasted hull resists heel and keeps the SSailOR’s traction hoop in contact with the ground (which is accomplished via a keel in a sailboat). Third, the NACA airfoil-based jib and main sails possess high lift/drag ratios, which are essential to achieving upwind motion. Unlike a conventional sailboat (in addition to the obvious difference that the SSailOR operates on land), the SSailOR uses differential jib and main trim to control its heading. Additionally, the SSailOR’s spherical cage prevents it from tipping over in strong winds, making the system fully self-righting and enabling operation without human intervention. </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img decoding="async" width="1024" height="356" src="{{ '/assets/images/94a311cc-SSailOR-1024x356.png' | relative_url }}" alt="" class="wp-image-377"></figure>
+</div>
+
+
+<p class="wp-block-paragraph">SSailOR CAD (left) and wind tunnel model (right).</p>
+
+
+
+<p class="wp-block-paragraph">Achieving high performance from the SSailOR requires a delicate balance of several competing objectives: An overweight hull will prevent heel but will also add rolling resistance, crippling the SSailOR’s ability to make upwind progress. On the other hand, an underweight hull will result in excessive heel. Large sails will provide fast transient response but will also lead to greater heel angles and induced drag, thereby reducing steady-state performance. Furthermore, from a control-theoretic standpoint, there is a desire for the SSailOR to possess a large open-loop reachable set (signifying high mobility) and a small closed-loop reachable set (signifying low sensitivity to disturbances). The team is formulating a control co-design optimization that will simultaneously optimize the physical design (plant) and controller for the SSailOR in order to account for these tradeoffs.</p>
+
+
+
+<h5 class="wp-block-heading">Ultra-Efficient Foiling Solar-Powered Autonomous Surface Vessels (ASVs):</h5>
+
+
+
+<p class="wp-block-paragraph">Sustainably powered robots provide the ability to conduct long (theoretically infinite) duration missions; however, whether powered by a wind, wave, or solar resource, the average power available from this resource pales in comparison to the instantaneously available power from conventional fuels. The result is robotic vehicles that are extremely slow, requiring large numbers of vehicles to adequately cover most domains. This is particularly true for ASVs, where top sustainable speeds typically do not exceed 1.5 m/s (one exception is the Saildrone Voyager, which can sustain a whopping 3 m/s due to its larger sail area and 10-meter length). Furthermore, ASVs are most useful when paired with aerial and underwater vehicles, but to deploy these vehicles in remote requirements, it is necessary that they be launched, landed, and recharged by the ASV itself. Our research is addressing both of the aforementioned challenges through the design of a foiling ASV (conceptually depicted below) that can achieve 10 m/s sustained speeds while supporting scientific observations and launch, landing, and wireless recharging. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="325" src="{{ '/assets/images/beaf5af0-foiling_ASV-1024x325.png' | relative_url }}" alt="" class="wp-image-408"></figure>
+
+
+
+<p class="wp-block-paragraph">Foiling solar-powered ASV concept (left) and intended sustainably powered observation network (right).</p>
+
+
+
+<p class="wp-block-paragraph">Our team has completed a preliminary design and associated analysis related to this foiling concept. The design is based on an ASV mass of 300 kg (equivalent to the instrumented SP-48 ASV), and requirements for achieving a 10 m/s transit speed are based on a 500 W/m^2 solar resource over the duration of foiling, 9 square meters of triple-junction solar cells operating at 30 percent efficiency, and 0.2 square meters of foil lifting (planview) area. Based on the required lift coefficient for foiling, a lift/drag ratio of 22.6 is required to achive the target transit speed. This can be achieved with two foils having aspect ratios equal to 10, along with a parasitic drag coefficient of 0.01, referenced to the foil area. These are challenging, yet realistically achievable hydrodynamic targets.</p>
+
+
+
+<h5 class="wp-block-heading">Cyber-Physical Oceanography through Clarity-Driven, Energy-Aware Mission Planning:</h5>
+
+
+
+<p class="wp-block-paragraph">This research effort involves the mission planning and control of a network of mobile oceanographic vehicles (e.g., solar-powered autonomous surface vessels (ASVs), rechargeable aerial vehicles, and rechargeable underwater gliders), as depicted in the figure below. A key feature of this network is that it consists of a renewably powered “host” agent (e.g., the solar-powered ASV) and numerous rechargeable “satellite” vehicles. The ultimate goal of the network is to maximize the amount of scientific information gathered, where this information is gathered over a persistent mission (due to the fact that the scientific quantitites of interest change over the course of operation). In this work, we utilize a novel measure termed <strong><em>clarity</em></strong> (which bears some resemblance to the measure of <em>coverage</em> used in earlier dynamic coverage literature but is in fact rigorously linked to differential entropy) to encode the amount of information that the network has over the domain at any given time. The challenge in this work is gaining the most clarity (a “cyber” metric) as possible, given the finite amount of energy (a physical metric) available over any given time period. Central to this effort is an investigation into the <strong><em>information value of energy</em></strong>, which formalizes the above exchange for the observing network. This work is occuring in tandem with research efforts that are focused on energy-aware coordination of the many vehicles in the network, ensuring that satellite vehicles acquire a maximal amount of scientific data while also safely rendezvousing with a host vehicle prior to discharging. The team is actively running experiments related to this work through the SP-48 ASV and a network of aerial vehicles.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="316" src="{{ '/assets/images/e6478274-cyber_physical_oceanography-1024x316.png' | relative_url }}" alt="" class="wp-image-389"></figure>
+
+
+
+<p class="wp-block-paragraph">Conceptual sustainably powered observational network (left) and SP-48 ASV under testing in Jordan Lake, NC (right).</p>
+
+
+
+<h5 class="wp-block-heading">Theoretical Work on Mission Planning and Control for Renewably Powered Robotic Systems:</h5>
+
+
+
+<p class="wp-block-paragraph">In order to perform&nbsp;<strong>persistent&nbsp;</strong>observational, surveillance, or reconnaissance missions, it is necessary to develop mobile systems (and corresponding mission planning/control algorithms) that are powered by a renewable energy resource. Several such technologies have in fact been developed, including sailing drones, autonomous solar-powered ocean vessels, wave gliders, and even ultra-light autonomous solar-powered aircraft. Three such technologies — the Saildrone, Seatrac SP-48, and Zephyr aircraft — are shown below.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="245" src="{{ '/assets/images/1ebd2f33-renewably_powered_robotics_examples-1536x367-1-1024x245.png' | relative_url }}" alt="" class="wp-image-101" style="width:768px;height:184px"></figure>
+</div>
+
+
+<p class="wp-block-paragraph">Unlike traditional mobile robotic systems, which are highly range-limited but offer rather predictable mobility, renewably powered robotics turn this paradigm on its head, offering&nbsp;<strong>unlimited range at the expense of stochastic mobility</strong>. This demands a fundamentally new mission planning and control approach, which recognizes the fact that a series of waypoints that must be “prosecuted” over the course of a mission cannot be reached at a prescribed time with 100% certainty. Because the observational value of a mission depends not only on the selected waypoints but also on the rate at which they are prosecuted, it is essential to incorporate probabilistic information about mobility into the mission planning approach. Our lab exploring the creation of such probabilistic frameworks, along with predictive control strategies that leverage these frameworks. In doing so, we are examining two classes of renewably powered mobile systems:</p>
+
+
+
+<ol class="wp-block-list">
+<li>Systems with little or no on-board energy storage that can be used to provide mobility even when the renewable resource is not available. In examining this class of systems, our lab is focusing in particular on sailing drones, for which mobility is not only a function of the renewable resource but is also directionally dependent.</li>
+
+
+
+<li>Systems with on-board energy storage, allowing for mobility even in the absence of the renewable resource, while still resulting in a stochastic reachable domain over any prescribed time horizon. In examining this class of systems, our lab is focusing in particular on solar-powered ocean observational vehicles, such as the Seatrac SP-48 autonomous surface vessel.</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph">In our initial research, we have modeled a sailing drone and developed stochastic dynamic programming (SDP) algorithms that minimize the expected time to complete an upwind leg of a sailing race. This research is being extended to generate minimum-time algorithms for prosecuting waypoints, which are in-turn being determined using a dynamic coverage-based control strategy. The figure below shows the initial CAD for a sailing drone that has been modeled in our lab and is presently being fabricated for experimental deployment, in addition to initial Monte Carlo simulation results of our SDP-based optimization, for different levels of wind volatility.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="390" src="{{ '/assets/images/cc0450df-sailing_drone_study-1536x585-1-1024x390.png' | relative_url }}" alt="" class="wp-image-102" style="width:768px;height:293px"></figure>
+</div>
+
+
+<h2 class="wp-block-heading has-medium-font-size"><strong>Funding:</strong></h2>
+
+
+
+<p class="wp-block-paragraph">U.S. Department of Energy, “Co-Design of the Pumping System and Controller for a Mobile, Anchorless, Wave-Powered Desalination Platform” (with Co-PIs Matt Bryant, Hosam Fathy, and Scott Willcox)</p>
+
+
+
+<p class="wp-block-paragraph">National Science Foundation, “Spherical Sailing Omnidirectional Rovers (SSailORs) for Sustainable, Persistent, and Autonomous Characterization of Remote Environments” (with Co-PI Andre Mazzoleni)</p>
+
+
+
+<p class="wp-block-paragraph">National Science Foundation, “Collaborative Research: CPS: Medium: Enabling Autonomous, Persistent, and Adaptive Mobile Observational Networks Through Energy-Aware Dynamic Coverage” (with Co-PIs Mika Panagou and Ruoying He)</p>
+
+
+
+<p class="wp-block-paragraph">National Science Foundation, “Persistent Mission Planning and Control for Renewably Powered Robotic Systems”</p>
+
+		<!--- Page footer -->
+
+
+
+</div>
+
+<p class="source-note">Source: <a href="https://corelab.engin.umich.edu/research/renewably-powered-robotic-systems/">CORE Lab university website</a>.</p>

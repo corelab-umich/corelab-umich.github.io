@@ -12,7 +12,7 @@
 <div class="institution">UNIVERSITY OF MICHIGAN <span>MECHANICAL ENGINEERING</span></div>
 <header><a class="brand" href="{{ '/' | relative_url }}">CORE<span>LAB</span></a>
 <nav aria-label="Main navigation">
-{% assign items = 'About:/about/,Research:/research/,People:/people/,Publications:/publications/,News:/news/,Contact:/contact/' | split: ',' %}
+{% assign items = 'About:/about-dr-vermillion/,Research:/research/,Students:/people/,Research output:/products-of-research/,News:/news/,Contact:/contact/' | split: ',' %}
 {% for item in items %}{% assign pair = item | split: ':' %}<a href="{{ pair[1] | relative_url }}" {% if page.url == pair[1] %}aria-current="page"{% endif %}>{{ pair[0] }}</a>{% endfor %}
 <a class="nav-docs" href="{{ site.docs_url | relative_url }}">Lab manual ↗</a>
 </nav></header>
